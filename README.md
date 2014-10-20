@@ -1,6 +1,6 @@
 #Citibike_Heatmap
 
-##A python project for creating an animated heap map of NYC CitiBike data.
+##A python project for creating an animated heap map of historical NYC CitiBike data.
 
 [Citibike](https://www.citibikenyc.com/) is NYC's new(ish) and very popular bike share program. Citibike customers can take a bike from any station, and leave it at any other station. It's natural to assume that after some time, certain areas of the city will end up with a high density of bikes, and others areas will have few bikes. Moreover, this relative density is likely to fluctuate in both space and time.
 
